@@ -1,0 +1,5 @@
+Firstname,Lastname,Fullname,Username,Password,Department,OU,Group,Group2
+Tu,Truong Dinh,Tu Truong Dinh,tutd,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","MangMayTinh","Leadership"
+Cuong,Le Anh,Cuong Le Anh,cuongla,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","KHMayTinh",
+Phuoc,Tran Thanh,Phuoc Tran Thanh,phuoctt,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","CNPhanMem",
+Phung,Cao Phi,Phung Cao Phi,phungcp,P@ssw0rd,,"OU=Office,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","Officer",

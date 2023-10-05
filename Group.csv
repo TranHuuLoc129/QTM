@@ -1,0 +1,6 @@
+Name,Description,OU
+MangMayTinh,Nganh mang may tinh,"OU=Qualification,OU=KHOA_CNTT,DC=labtdtu,DC=com"
+KHMayTinh,Nganh khoa hoc may tinh,"OU=Qualification,OU=KHOA_CNTT,DC=labtdtu,DC=com"
+CNPhanMem,Nganh cong nghe phan mem,"OU=Qualification,OU=KHOA_CNTT,DC=labtdtu,DC=com"
+Officer,Van phong,"OU=Office,OU=KHOA_CNTT,DC=labtdtu,DC=com"
+Leadership,Lanh dao khoa,"OU=Leader,OU=KHOA_CNTT,DC=labtdtu,DC=com"
